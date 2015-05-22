@@ -1,0 +1,105 @@
+{
+	"resourceId" : "00ec0d48-249e-46f5-8857-b4192a3aa94b",
+	"properties" : {
+		"executable" : true,
+		"package" : "",
+		"vardefs" : "",
+		"adhocprocess" : "false",
+		"imports" : "",
+		"globals" : "",
+		"id" : ".",
+		"version" : "",
+		"timeunit" : "s",
+		"currency" : "",
+		"targetnamespace" : "http://www.omg.org/bpmn20",
+		"typelanguage" : "http://www.w3.org/2001/XMLSchema",
+		"name" : "",
+		"documentation" : ""
+	},
+	"stencil" : {
+		"id" : "BPMNDiagram"
+	},
+	"childShapes" : [{
+			"resourceId" : "_6D3D2CF6-43A6-4AAB-90D8-46EB7D668D69",
+			"properties" : {
+				"name" : "<wsx>\"wy\"&gg",
+				"documentation" : "",
+				"isselectable" : "true",
+				"isforcompensation" : "",
+				"input_assignments" : "abc=<wszx>\"wyz\"&gzg",
+				"output_assignments" : "",
+				"tasktype" : "User",
+				"messageref" : "",
+				"script" : "",
+				"script_language" : "java",
+				"operation" : "",
+				"bgcolor" : "#fafad2",
+				"bordercolor" : "#000000",
+				"fontcolor" : "#000000",
+				"fontsize" : "",
+				"datainputset" : "abc:String",
+				"dataoutputset" : "",
+				"origbgcolor" : "#fafad2",
+				"origbordercolor" : "#000000",
+				"ruleflowgroup" : "",
+				"onentryactions" : "",
+				"onexitactions" : "",
+				"taskname" : "<wsx>\"wy\"&gg",
+				"interface" : "",
+				"actors" : "",
+				"kj_approveopinion" : "0",
+				"kj_businessform" : "",
+				"kj_jointapproval" : "0",
+				"kj_jacondition" : "",
+				"groupid" : "",
+				"comment" : "",
+				"content" : "",
+				"reassignment" : "",
+				"notifications" : "",
+				"skippable" : "",
+				"priority" : "3",
+				"min" : "0",
+				"max" : "0",
+				"standarddeviation" : "0",
+				"mean" : "0",
+				"timeunit" : "",
+				"distributiontype" : "random",
+				"quantity" : "0",
+				"workinghours" : "8",
+				"unitcost" : "0",
+				"currency" : ""
+			},
+			"stencil" : {
+				"id" : "Task"
+			},
+			"childShapes" : [],
+			"outgoing" : [],
+			"bounds" : {
+				"lowerRight" : {
+					"x" : 132,
+					"y" : 137
+				},
+				"upperLeft" : {
+					"x" : 32,
+					"y" : 57
+				}
+			},
+			"dockers" : []
+		}
+	],
+	"bounds" : {
+		"lowerRight" : {
+			"x" : 1500,
+			"y" : 1000
+		},
+		"upperLeft" : {
+			"x" : 0,
+			"y" : 0
+		}
+	},
+	"stencilset" : {
+		"url" : "bpmn2.0jbpm",
+		"namespace" : "http://b3mn.org/stencilset/bpmn2.0#"
+	},
+	"ssextensions" : ["http://b3mn.org/stencilset/bpmn2.0minimal#"]
+}
