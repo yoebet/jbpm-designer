@@ -1,4 +1,4 @@
-在BPM平台产品中，对jbpm的流程设计器（https://github.com/droolsjbpm/jbpm-designer/tree/2.4.1.Final）做了大量定制。包括：
+在BPM平台产品中，对jbpm的流程设计器(2.4.1)做了大量定制。包括：
 
 - 本地化 
 - 界面简化，功能简化
